@@ -8,9 +8,9 @@ var cubetwo = new window.CubeTwo({
     u: 'img/1.jpg',
     d: 'img/2.jpg',
     f: 'img/3.jpg',
-    b: 'img/3.jpg',
-    r: 'img/2.jpg',
-    l: 'img/1.jpg',
+    b: 'img/4.jpg',
+    r: 'img/5.jpg',
+    l: 'img/6.jpg',
   },
   backgroundColors: { /* optional */
     u: 'rgba(255, 255, 255, .7)',
